@@ -1,3 +1,4 @@
+<dependencies>
 <dependency>
     <groupId>ch.qos.logback</groupId>
     <artifactId>logback-classic</artifactId>
@@ -36,3 +37,4 @@
     <artifactId>javafaker</artifactId>
     <version>1.0.2</version>
 </dependency>
+</dependencies>
